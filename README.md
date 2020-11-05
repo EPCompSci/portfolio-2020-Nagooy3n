@@ -4,7 +4,9 @@
 Hey there, I'm Vincent Nguyen. This portfolio showcases my projects I've been working on in my 2020 iOS Mobile App Development class at Eden Prairie Highschool. I've learned about using Spreadsheet APKs, basic user interface with SwiftUI, and making a simple game using SpriteKit. I was able to learn a little bit of the basics of Swift through YouTube, Apple Tutorials, and looking at game examples. Simultaneously, I'm taking a 2020 Intro to Java Programming class at the University of Minnesota to help build my foundation in programming.
 
 # Projects
-**TRACE App**  
+
+[**TRACE App**](https://github.com/Nagooy3n/TraceApp)
+
 ![Screenshot](TRACE_Example.png)
 
 I learned how to import data from a google spreadsheet using APKS, create buttons that link to an in-app spreadsheet, and basic user interface.
