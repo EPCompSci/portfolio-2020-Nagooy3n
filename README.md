@@ -11,7 +11,7 @@ I learned how to import data from a google spreadsheet using APKS, create button
 I originally wanted to use this app to organize my tutoring club links for my tutors, but we found that a linktr.ee would suffice. Nonetheless, this was a good first project into Swift.
 
 
-**APBO App**
+[**APBO App**](https://github.com/1201dc/APBOv2)
 
 ![Screenshot](APBO_Example.png)
 
