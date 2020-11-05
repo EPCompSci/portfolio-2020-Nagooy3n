@@ -1,9 +1,14 @@
-# iOS-Portfolio
-2018-2019 Portfolio
+# About Me!
+2020-20121 Portfolio
 
-Using this space as the home base for your portfolio, make a wiki or pages like this read me to highlight what you have learned / created over this semester of class. You should consider this as much for your grade as your resume. You've got incredible work to highlight and brag about - do that here. 
+Hey there, I'm Vincent Nguyen. This portfolio showcases my projects I've been working on in my 2020 iOS Mobile App Development class at Eden Prairie Highschool. I've learned about using Spreadsheet APKs, basic user interface with SwiftUI, and making a simple game using SpriteKit. I was able to learn a little bit of the basics of Swift through YouTube, Apple Tutorials, and looking at game examples. Simultaneously, I'm taking a 2020 Intro to Java Programming class at the University of Minnesota to help build my foundation in programming.
 
-I'd like you to consider this assignment as a way to get a job / internship / independent contract with someone outside the school.
+# Projects
+TRACE App
 
-Create links to group projects (create a new repo for completed apps) you've been working on, making sure the read me's have details about what the apps do in the format the app store asks - look at a couple apps to see what I'm talking about. Don't forget about those first simple apps you created - they still matter!
 
+APBO App
+
+# Programming Experience
+Java (2020-)
+Swift (2020-)
