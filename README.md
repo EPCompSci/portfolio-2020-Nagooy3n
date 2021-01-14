@@ -1,7 +1,7 @@
 # About Me!
 2020-20121 Portfolio
 
-Hey there, I'm Vincent Nguyen. This portfolio showcases my projects I've been working on in my 2020 iOS Mobile App Development class at Eden Prairie Highschool. I've learned about using Spreadsheet APKs, basic user interface with SwiftUI, and making a simple game using SpriteKit. I was able to learn a little bit of the basics of Swift through YouTube, Apple Tutorials, and looking at game examples. Simultaneously, I'm taking a 2020 Intro to Java Programming class at the University of Minnesota to help build my foundation in programming.
+Hey there, I'm Vincent Nguyen. This portfolio showcases my projects I've been working on in my 2020 iOS Mobile App Development class at Eden Prairie Highschool. I've learned about using Spreadsheet APKs, basic user interface with SwiftUI, and making a simple game using SpriteKit. I was able to learn a little bit of the basics of Swift through YouTube, Apple Tutorials, and looking at game examples. I've also I'm taking a 2020 Intro to Java Programming class at the University of Minnesota to help build my foundation in programming.
 
 # Projects
 
@@ -15,10 +15,9 @@ I originally wanted to use this app to organize my tutoring club links for my tu
 
 [**APBO App**](https://github.com/1201dc/APBOv2)
 
-![Screenshot](APBO_Example.png)
+![Screenshot](IMG_7204.PNG)
 
-This is a work in progress app that is a space shooting game that I plan to convert into an online multiplayer game. It has taught me the basics of SpriteKit as well as helping me realize the importance of mathematics in the physics of sprites.
-
+This is my latest project which is a space shooter app called Ghost Pilots. I've learned how to incorporate mathematics and problem solving into my game through its many features such as a ghost take over of enemy ships, handling collisions, and keeping track of data. I plan to transition to an online multiplayer game where players can connnect with others around the globe to either fight each other or team up.
 
 # Programming Experience
 
