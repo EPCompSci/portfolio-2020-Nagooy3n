@@ -23,11 +23,17 @@ Version 2.0
 
 ![Screenshot](IMG_7204.PNG)
 
-This is my latest project which is a space shooter app called Ghost Pilots (Download in the App Store!). I've learned how to incorporate mathematics and problem solving into my game through its many features such as a ghost take over of enemy ships, handling collisions, and keeping track of data. I plan to transition to an online multiplayer game where players can connnect with others around the globe to either fight each other or team up. You can check out the video that goes throught the features in these repository files.
+This is my latest project which is a space shooter app called Ghost Pilots (Download in the App Store!). I've learned how to incorporate mathematics and problem solving into my game through its many features such as a ghost take over of enemy ships, handling collisions, and keeping track of data. I plan to transition to an online multiplayer game where players can connnect with others around the globe to either fight each other or team up. You can check out the video that goes throught the features in these repository files. 
+
+I learned how to create artwork for the character models and buttons , how to send a game to the App Store, as well as create enticing images for the app previews.
 
 The latest features of version 2.0 are: 
 
 • Phasing feature to take over enemies
+
+![Screenshot](IMG_7210.PNG)
+
+![Screenshot](IMG_7211.PNG)
 
 • Global Game Center Leaderboard
 
