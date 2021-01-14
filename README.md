@@ -31,9 +31,17 @@ The latest features of version 2.0 are:
 
 • Global Game Center Leaderboard
 
+![Screenshot](IMG_7206.PNG)
+
 • 4 difficulties for Turret Boss
 
+
+![Screenshot](IMG_7208.PNG)
+
+
 • Tutorial
+
+![Screenshot](IMG_7207.PNG)
 
 # Programming Experience
 
